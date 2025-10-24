@@ -43,7 +43,7 @@ The annotation scheme harmonizes ISO standards:
 ## 📄 Format
 
 - **Format**: `UIMA XML 1.1`
-- **Annotation Tool**: [INCEpION
+- **Annotation Tool**: INCEpTION
 - **Annotation Layers**:
   - `event`, `situation`, `signal` (entities)
   - `discourseLink`, `temporalLink`, `signalLink` (relations)
