@@ -9,8 +9,10 @@
 - Narrative structure
 - Cross-linguistic semantics
 
-This **repository** includes only the texts in:
-- 🇵🇹 European Portuguese
+This **repository** includes the texts in:
+- 🇵🇹 European Portuguese (included annotations)
+- 🇵🇱 Polish
+- 🇺🇸 English
 
 ---
 
