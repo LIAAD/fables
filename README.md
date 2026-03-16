@@ -68,6 +68,6 @@ If you use this dataset, please cite the corresponding publication (to be update
 
 ## 📄 License
 
-*To be specified.*
+Licensed under the Apache License, Version 2.0
 
 ---
