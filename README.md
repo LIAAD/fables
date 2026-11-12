@@ -64,7 +64,19 @@ This dataset is suitable for:
 
 ## 📚 Citation
 
-If you use this dataset, please cite the corresponding publication (to be updated upon acceptance).
+If you use this corpus in your research, please cite:
+
+```bibtex
+@inproceedings{silvano2026fables,
+  title={Fables-DTR: A Corpus of Fables Annotated for Discourse and Temporal Relations},
+  author={Silvano, Purifica{\c{c}}{\~a}o and Leal, Ant{\'o}nio and Ogrodniczuk, Maciej and Lewandowska, Martyna and {\'S}liwicka, Anna and Tomaszewska, Aleksandra and Cunha, Lu{\'\i}s Filipe and Amorim, Evelin and Gomes, Joana and Jorge, Al{\'\i}pio},
+  booktitle={Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  volume={11},
+  number={16},
+  pages={1856--1868},
+  year={2026}
+}
+```
 
 ---
 
